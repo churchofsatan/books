@@ -1,0 +1,121 @@
+ The Sentinels’ Handbook: Official Guidelines for the Moderation Team
+
+ Introduction
+
+Hello, and welcome to the official handbook for Moderators! All the information you need is in this document. Keep this tab open at all times while moderating the Discord server. Be sure to read the entire document to ensure your job is being done adequately. Moderators are tasked with moderating the Discord server, ranking new members from Pupil to Student, handling ban appeals, and serving as a last resort if protectors aren’t at the church. If you have any questions, contact the Head of Moderation for assistance.
+
+ Rankings
+
+- Counselor Advisor: Chosen by the Head of Moderation, this individual assists the Head of Moderation and may assume their position if necessary.
+- Administrators: Highly active, they clean the Discord server, rank members from pupil to student, and assist protectors in-game.
+- Moderators: Skilled in their tasks, they frequently clean the Discord channels, rank members, and enforce rules in both the Discord server and in-game.
+- Midway Moderators: Moderately experienced, they rank members to scholars and above and are on their way to becoming outstanding Moderators.
+- Trial Moderators: New recruits getting accustomed to the handbook and basic tasks like ranking verified pupils to students and cleaning the Discord server.
+
+ Discord Server Channels
+
+- mod-information: Contains the Mod handbook and other important information for the moderation team.
+- mod-announcements: For reminders, training sessions, and handbook updates.
+- mod-staff: Outlines the current mod hierarchy and is updated regularly.
+- mod-logs: Logs all moderation actions with proof.
+- mod-discussion: A place for moderators to discuss situations and modify the handbook.
+- mod-introduction: A channel for mods to introduce themselves to the team.
+- mod-strikes: Lists moderation strikes and records.
+- mod-inactivity-notice: For filing notices if you will be inactive for more than a day.
+- discord-logs: A bot-automated channel logging all actions like ranking, deletion, or editing of messages.
+- mod-archive: Stores archivable information about the division.
+- ban-appeals: Contains information on current ban appeals.
+
+ Expectations
+
+Behavior, Communication, and Activity: Maintain professional behavior for a good image of yourself and the community. Cooperate with other mods to ensure smooth operations. Be as active as possible and keep notifications on to assist when needed. Make sure to rank members regularly.
+
+Tasks: Moderators moderate the server, rank verified pupils to students, and serve as a last resort for protectors. Remove the pupil role from members no longer in the group. Follow the handbook precisely, as administrative actions are taken seriously. Mistakes can result in strikes or demotion.
+
+Instructions on Ranking:
+1. Go to the rank-up-request channel.
+2. Copy the username of the person requesting a rank.
+3. Go to the Roblox group and select ‘configure group’.
+4. Paste the member’s username in the search bar and rank them to student.
+5. Return to the Discord server, and add the student role to their profile.
+6. Add a reaction to the rank-up request to signify completion.
+
+Training: Covers all tasks of a moderator, including the discord rules and the handbook. Training may also include topics on burnout, mental health, and more. Typically, training is provided for all new trial moderators and as needed for midway and above moderators.
+
+ Guidelines
+
+ The Moderator’s Guide
+
+Enforce the following Discord rules in all channels:
+
+- No spamming
+- No explicit trolling
+- No harassment
+- No hate speech
+- Use appropriate channels
+- Listen to staff
+- Don’t ask for ranks
+- Avoid talking about age
+- Abide by Discord Terms of Service
+- No group promotion/advertising
+- No graphic content (instant ban, no appeal)
+- No extremist material or support
+
+Warning and Punishment Commands:
+- ?warn [Discord tag] [reason]
+- ?warnings [Discord tag]
+- ?delwarn [warning ID]
+- ?mute [Discord tag] [limit] [reason]
+- ?kick [Discord tag] [reason]
+- ?ban [Discord tag] [reason]
+
+Warnings expire after two weeks except for NSFW, harassment, hate speech, racism, trolling, preaching, threats, and bigotry. Staff members are not exempt from the rules.
+
+ Situational Handling
+
+- Spam/Inappropriate Channel Use: Verbal warn, warn, mute, kick, ban.
+- Server Raid: Ban all participants.
+- Talking About Age: Verbal warn, warn, mute, ban.
+- Asking for Ranks: Direct to information, warn, mute, ban.
+- Harassment/Hate Speech/Racism/Bigotry/Threats/Explicit Trolling: Instant ban.
+- Preaching: Warn, kick, ban.
+- Spam Preaching: Instant kick, ban.
+- Slurs: Warn, kick, ban.
+- Extreme Content/Discussion: Instant ban.
+- NSFW Profile/Banner/Tag: DM to change within 1 hour, kick, ban.
+- NSFW Status/About Me: DM to change within 1 hour, kick, ban.
+
+ Preventing NSFW Topics and Jokes About Leaking Information
+
+Verbal warn first. If malicious intent is suspected, gather evidence and ban immediately. If not, warn, then ban if continued.
+
+ Handling Tickets
+
+Ping inactive tickets after 3 days, and close if there is no response. Handle trolling according to protocols and end interactions formally.
+
+ Ban Appeals
+
+Only the Head of Moderation and Counselor Advisor can accept and log ban appeals. Accepted individuals undergo a 2-week probation. Any rule-breaking during probation results in an instant ban without appeal.
+
+Example of Preaching:
+- Saying “You should believe in God” or “Satan is bad because God said so” is preaching.
+
+Examples of NSFW:
+- NSFW profile pictures (explicit content) and statuses with explicit language must be addressed according to the protocol.
+
+Rule-Breaking Examples:
+- Extremism/Animal Torture
+- Slur Usage
+- NSFW Content
+- Spamming and Preaching
+- Underaged Members
+
+ In-Game Moderation Guide
+
+People of certain ranks are allowed on stage. Follow the same moderation protocols for spammers, trollers, preachers, harassers, and racists as in Discord. Use appropriate commands for warnings, muting, jailing, kicking, and banning.
+
+ Ban Appeals
+
+Members banned for graphic content, serious threats, NSFW content, gore, IP grabbing, and extremism are not eligible for appeals. Other banned members can apply for an appeal. If accepted, they undergo a 2-week probation and must adhere strictly to rules, or face an instant ban without further appeals. 
+
+Signed, Head of Moderation, Maeror
