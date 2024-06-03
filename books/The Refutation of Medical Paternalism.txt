@@ -1,0 +1,539 @@
+Introduction: 
+	Except in a few extraordinary cases, strong paternalism in medicine is unjustified,
+Goldman argues. Patients have a right of self-determination, a right of freedom to
+make their own choices. Decisions regarding their own futures should be left up to
+
+them because persons are the best judges of their own interests and because self-
+determination is valuable for its own sake regardless of its generally positive effects.
+
+This right implies “the right to be told the truth about one’s condition, and the
+right to accept or refuse or withdraw from treatment on the basis of adequate
+information regarding alternatives, risks and uncertainties.” The faulty premise in
+the argument for medical paternalism, says Goldman, is that health and prolonged
+life can be assumed to be the top priorities for patients (and so physicians may
+decide for patients accordingly). But very few people always prioritize these values
+in this way. d
+
+The Refutation of Medical Paternalism by Alan Goldman 
+
+There are two ways to attack an argument in favor
+of paternalistic measures (while accepting our criteria 
+for justified paternalism). One is to argue that
+honoring rather than overriding the right of the
+person will not in fact harm him. The other is to
+admit that the satisfaction of the person’s right may
+harm in some way, but argue that the harm does not
+merit exception to the right, all things considered.
+The first is principally an empirical, the second a
+moral counterargument. 
+
+The latter is not a perfectly clear-cut distinction,
+either in general or in application to the question of
+paternalism. For one thing, the most inclusive notion
+of harm is relative to the values and preferences of the
+particular individual. (This point will be important
+in the argument to follow.) A person is harmed when
+a state of affairs below a certain level on his preference
+scale is realized rather than one higher up. Our notion
+of harm derives what objectivity it has from two
+sources, again one principally empirical and the other
+more purely moral. The first is the fact that certain
+states of affairs are such that the vast majority of us
+would wish to avoid them in almost all conceivable 
+
+contexts: physical injury, hastened death, or depression 
+itself for example. It is an empirical question
+whether these states of affairs result from certain
+courses of conduct, hence, when they are predicted
+results, principally an empirical question whether
+harm ensues. The second source of a concept of harm
+independent of individual differences in subjective
+preferences is ideal-regarding: when the development
+of an individual capable of freely and creatively formulating
+and acting to realize central life projects is
+blocked, that person is harmed, whether or not he realizes 
+it, and whether or not any of his present desires
+are frustrated. 
+
+The first argument against paternalistic interference 
+holds that allowing an individual free choice is
+not most likely to result in harm taken in its objective 
+sense. The second argument is somewhat more
+complex. It admits likely harm in the objective
+sense—worsened health, depression, or even hastened 
+death in the examples we are considering—
+but holds that even greater harm to the individual is
+likely to ensue from the interference, harm in the
+more inclusive sense that takes account of his whole
+range of value orderings and the independent value
+of his integrity as an individual. In this latter situation 
+there is one sense in which the individual is
+likely to suffer harm no matter what others do,
+since a state of affairs will be realized that he would
+wish to avoid, other things being equal, a state of
+affairs well below the neutral level in his preference
+orderings. But from the point of view of others, they
+impose harm only by interfering, since only that
+action results in a state of affairs lower on his scale
+of preferences than would otherwise be realized.
+In this sense harm is a relative notion, first because
+it is relative to subjective value orderings, and
+second because it is imposed only when a situation
+worse than what would otherwise occur is caused.
+We appeal to this second more inclusive notion in
+the second type of argument against paternalism. 
+
+Empirical Arguments 
+
+Returning to the medical context, other philosophers 
+have recently questioned the degree of truth in
+the empirical premise that patients are likely to be
+harmed when doctors fully inform them. Sissela
+
+Bok, for example, has noted that in general it appears 
+to be false that patients do not really want bad
+
+news, cannot accept or understand it, or are harmed
+by it. Yet she does not deny that information can
+sometimes harm patients, can cause depression,
+prolong illness, or even hasten death; and she explicitly 
+allows for concealment when this can be
+shown in terminal cases. Allen Buchanan questions
+the ability of the doctor to make a competent judgment 
+on the probability of harm to the patient, a
+judgment that would require both psychiatric expertise 
+and intimate knowledge of the patient
+himself. Doctors are not generally trained to judge
+long-term psychological reactions, and even if
+they were, they would require detailed psychological 
+histories of patients in order to apply this
+expertise in particular cases. As medical practices
+tend to become more impersonal, certainly a trend
+in recent years, such intimate knowledge of patients, 
+even on a nontheoretical level, will normally be lacking. 
+Physicians would then have to
+rely upon loose generalizations, based on prior
+impressions of other patients and folklore from
+colleagues, in order to predict the effect of information 
+on particular patients. 
+
+Buchanan appears to consider this point sufficient 
+to refute the argument for paternalism, eschewing 
+appeal to patients’ rights. But unless we begin
+with a strong presumption of a right of the patient
+to the truth, I do not see why the difficulties for
+the doctor in judging the effect of information on
+the patient recommends a practice of disclosure.
+If the decision is to be based upon risk-benefit calculation 
+(as it would be without consideration of
+rights), then, just as in other decisions regarding
+treatment, no matter how difficult to make, it seems
+that the doctor should act on his best estimate. The
+decision on what to say must be made by him one
+way or the other; and without a right-based presumption 
+in favor of revealing the truth, its difficulty is
+no argument for one outcome rather than the other.
+In fact, the difficulty might count against revelation,
+since telling the truth is generally more irreversible
+than concealment or delay. 
+
+One could, it is true, attempt to make out a case
+for full disclosure on strict risk-benefit grounds,
+without appeal to rights. As we have seen in earlier
+chapters, utilitarians can go to great lengths to show
+that their calculations accord with the intuitive recognition 
+of particular rights. In the case of lying or
+deceiving, they standardly appeal to certain systematic 
+disutilities that might be projected, e.g. effects
+upon the agent’s trustworthiness and upon the trust
+that other people are willing to accord him if his lies
+are discovered. In the doctor’s case, he might fear
+losing patients or losing the faith of patients who
+continue to consult him, if he is caught in lies or deceptions. 
+A utilitarian could argue further that, even
+in situations in which these disutilities appear not to
+figure, this appearance tends to be misleading, and
+that potential liars should therefore resist the temp-
+tation on this ground. One problem with this argument, 
+as pointed out in the chapter on political
+ethics, is that it is empirically falsified in many situations.
+It is not always so difficult to foretell the utilitarian 
+effects of deception, at least no more difficult
+than is any other future-looking moral calculation.
+In the case of terminally ill patients, for example, by
+the time they realize that their doctors have been
+deceiving them, they will be in no condition to communicate 
+this fact to other patients or potential patients, 
+even if such communication were otherwise
+commonplace. Thus the doctor has little to fear in
+the way of losing patients or patients’ faith from his
+policy of disclosure or concealment from the terminally 
+ill. He can safely calculate risks and benefits
+with little regard for such systematic disutilities.
+Again we have little reason to prefer honoring a
+right, in this case a right to be told the truth, without 
+appealing to the right itself. The only conclusion
+that I would draw from the empirical points taken
+in themselves is that doctors should perhaps be
+better trained in psychology in order to be better
+able to judge the effects of disclosure upon patients,
+not that they should make a practice of full disclosure 
+and of allowing patients full control over decisions 
+on treatment. These conclusions we must
+reach by a different rights-based route. 
+
+I shall then criticize the argument for paternalistic 
+strong role differentiation on the more fundamental 
+moral ground. To do so I shall restrict
+attention to cases in which there is a definite risk or
+probability of eventual harm (in the objective sense)
+to the patient’s health from revealing the truth
+about his condition to him, or from informing him
+of all risks of alternative treatments and allowing
+him a fully informed decision. These cases are those
+in which the high probability of harm can be supported 
+or demonstrated, but in which the patient
+asks to know the truth. Such cases are not decided
+by the points of Bok or Buchanan, and they are the
+crucial ones for the question of strong role differentiation. 
+The issue is whether such projected harm is
+sufficient to justify concealment. If the patient’s
+normal right to self-determination prevails, then
+the doctor, in having to honor this right, is acting
+within the same moral framework as the rest of us.
+If the doctor acquires the authority to decide for the
+patient, a normally competent adult, or to withhold
+the truth about his own condition from him, then
+he has special professional license to override otherwise 
+obtaining rights, and his position is strongly
+differentiated. 
+
+Before presenting the case against strong role differentiation 
+on this basis, I want to dispense quickly
+with a possible conceptual objection. One might
+claim that the justification of medical paternalism
+would not in itself satisfy the criteria for strong role
+differentiation as defined. Since paternalism is justified 
+as well in other contexts, the exceptions to the
+rights in question need not be seen to derive from a
+special principle unique to medical ethics, but can
+be held simply to instantiate a generally recognized
+ground for restricting rights or freedoms. If serious
+harm to a person himself generally can be counted
+as overriding evidence that the projected action is
+contrary to his own true preferences or values, and
+if this generally justifies paternalistic interference
+or delegation of authority for decisions to others, if,
+for example, legislators assume authority to apply
+coercive sanctions to behavior on these grounds, then
+the authority to be paternalistic would not uniquely
+differentiate doctors. 
+
+The above may be true in so far as paternalism is
+sometimes justified in other than medical contexts,
+but that does not alter the import of the argument
+for medical paternalism to our perception of the
+doctor’s role. If the argument were sound, the medical 
+profession might still be the only one, or one of
+only a few, paternalistic in this way. This would differentiate 
+medical ethics sufficiently. I argued earlier
+that legislators must in fact honor normal moral
+rights. While paternalistic legislation is sometimes
+justified, as in the requirement that motorcycle riders
+wear helmets, such legislation is so relatively small a
+part of the legislator’s concerns, and the amount of
+coercion justified itself so relatively light, that this
+does not alter our perception of the legislator’s general 
+moral framework. If the paternalist argument
+were sound in relation to doctors, on the other hand,
+this would substantially alter the nature of their
+practice and our perception of their authority over
+certain areas of our lives. We can therefore view the
+paternalist argument as expressing the underlying
+moral purposes that elevate the Hippocratic principle 
+and augment the doctor’s authority to ignore systematically 
+rights that would obtain against all but
+those in the medical profession. The values expressed
+and elevated are viewed by doctors themselves as
+central to their role, which again distinguishes this
+argument from claims of justified paternalism in
+other contexts. Furthermore, viewing the argument
+in this way brings out the interesting relations between 
+positions of doctors and those in other professions 
+and social roles. It brings out that doctors
+tend to assume broader moral responsibility for
+decisions than laymen, while those in certain other
+professions tend to assume less. In any case, while
+I shall not in the end view the doctor’s role as
+strongly differentiated, I do not want to rely upon
+this terminological point, but rather to refute the
+argument for overriding patients’ rights to further
+the medical goal of optimal treatment. 
+
+The Moral Argument 
+
+In order to refute an argument, we of course need to
+refute only one of its premises. The argument for medical 
+paternalism, stripped to its barest outline, was: 
+
+1. Disclosure of information to the patient will
+sometimes increase the likelihood of depression 
+and physical deterioration, or result in
+choice of medically inoptimal treatment. 
+2. Disclosure of information is therefore sometimes 
+likely to be detrimental to the patient’s
+health, perhaps even to hasten his death. 
+3. Health and prolonged life can be assumed
+to have priority among preferences for
+patients who place themselves under
+physicians’ care. 
+4. Worsening health or hastening death can
+therefore be assumed to be contrary to
+patients’ own true value orderings. 
+5. Paternalism is therefore justified: doctors
+may sometimes override patients’ prima
+facie rights to information about risks and
+treatments or about their own conditions
+in order to prevent harm to their health. s
+
+The Relativity of Values: Health and Life 
+The fundamentally faulty premise in the argument
+for paternalistic role differentiation for doctors is
+that which assumes that health or prolonged life
+must take absolute priority in the patient’s value orderings. 
+In order for paternalistic interference to be
+justified, a person must be acting irrationally or inconsistently 
+with his own long-range preferences.
+The value ordering violated by the action to be
+prevented must either be known to be that of the
+person himself, as in the train example, or else be
+uncontroversially that of any rational person, as in
+the motorcycle helmet case. But can we assume that
+health and prolonged life have top priority in any
+rational ordering? If these values could be safely assumed 
+to be always overriding for those who seek
+medical assistance, then medical expertise would
+become paramount in decisions regarding treatment,
+and decisions on disclosure would become assimilated 
+to those within the treatment context. But in
+fact very few of us act according to such an assumed
+value ordering. In designing social policy we do not
+devote all funds or efforts toward minimizing loss
+of life, on the highways or in hospitals for example. 
+
+If our primary goal were always to minimize risk
+to health and life, we should spend our entire federal 
+budget in health-related areas. Certainly such a
+suggestion would be ludicrous. We do not in fact
+grant to individuals rights to minimal risk in their
+activities or to absolutely optimal health care. From
+another perspective, if life itself, rather than life of
+a certain quality with autonomy and dignity, were
+of ultimate value, then even defensive wars could
+never be justified. But when the quality of life and
+the autonomy of an entire nation is threatened
+from without, defensive war in which many lives are
+risked and lost is a rational posture. To paraphrase
+Camus, anything worth living for is worth dying for.
+To realize or preserve those values that give meaning 
+to life is worth the risk of life itself. Such fundamental 
+values (and autonomy for individuals is
+certainly among them), necessary within a framework 
+in which life of a certain quality becomes possible, 
+appear to take precedence over the value of
+mere biological existence. 
+
+In personal life too we often engage in risky
+activities for far less exalted reasons, in fact just
+for the pleasure or convenience. We work too hard,
+smoke, exercise too little or too much, eat what we
+know is bad for us, and continue to do all these
+things even when informed of their possibly fatal
+effects. To doctors in their roles as doctors all this
+may appear irrational, although they no more act
+always to preserve their own health than do the rest
+of us. If certain risks to life and health are irrational, 
+others are not. Once more the quality and
+significance of one’s life may take precedence over
+maximal longevity. Many people when they are sick
+think of nothing above getting better; but this is not
+true of all. A person with a heart condition may
+decide that important unfinished work or projects
+must take priority over increased risk to his health;
+and his priority is not uncontroversially irrational.
+Since people’s lives derive meaning and fulfillment
+from their projects and accomplishments, a person’s
+risking a shortened life for one more fulfilled might
+well justify actions detrimental to his health. . . . 
+
+To doctors in their roles as professionals whose
+ultimate concern is the health or continued lives of
+patients, it is natural to elevate these values to ultimate 
+prominence. The death of a patient, inevitable
+as it is in many cases, may appear as an ultimate
+defeat to the medical art, as something to be fought
+by any means, even after life has lost all value and
+meaning for the patient himself. The argument in the
+previous section for assuming this value ordering
+was that health, and certainly life, seem to be neces-
+sary conditions for the realization of all other goods
+or values. But this point, even if true, leaves open the
+question of whether health and life are of ultimate, or
+indeed any, intrinsic value, or whether they are valu-
+able merely as means. It is plausible to maintain that
+life itself is not of intrinsic value, since surviving
+in an irreversible coma seems no better than death.
+It therefore again appears that it is the quality of life
+that counts, not simply being alive. Although almost
+any quality might be preferable to none, it is not irrational 
+to trade off quantity for quality, as in any
+other good. 
+
+Even life with physical health and consciousness 
+may not be of intrinsic value. Consciousness
+and health may not be sufficient in themselves to
+make the life worth living, since some states of
+consciousness are intrinsically good and others
+bad. Furthermore, if a person has nothing before
+him but pain and depression, then the instrumental 
+worth of being alive may be reversed. And
+if prolonging one’s life can be accomplished only
+at the expense of incapacitation or ignorance, perhaps 
+preventing lifelong projects from being completed, 
+then the instrumental value of longer life
+again seems overbalanced. It is certainly true that
+normally life itself is of utmost value as necessary
+for all else of value, and that living longer usually
+enables one to complete more projects and plans,
+to satisfy more desires and derive more enjoyments. 
+But this cannot be assumed in the extreme
+circumstances of severe or terminal illness. Ignorance 
+of how long one has left may block realization 
+of such values, as may treatment with the best
+chance for cure, if it also risks incapacitation or
+immediate death. 
+
+Nor is avoidance of depression the most important 
+consideration in such circumstances, as a
+shallow hedonism might assume. Hedonistic theories 
+of value, which seek only to produce pleasure
+or avoid pain and depression, are easily disproven
+by our abhorrence at the prospect of a “brave new
+world,” or our unwillingness, were it possible, to be
+plugged indefinitely into a “pleasure machine.” The
+latter prospect is abhorrent not only from an idealregarding 
+viewpoint, but, less obviously, for want-
+regarding reasons (for most persons) as well. Most
+people would in fact be unwilling to trade important 
+freedoms and accomplishments for sensuous
+pleasures, or even for the illusion of greater freedoms 
+and accomplishments. As many philosophers
+have pointed out, while satisfaction of wants may
+bring pleasurable sensations, wants are not primarily 
+for pleasurable sensations, or even for happiness
+more broadly construed, per se. Conversely, the
+avoidance of negative feelings or depression is not
+uppermost among primary motives. Many people
+are willing to endure frustration, suffering, and
+even depression in pursuit of accomplishment, or
+in order to complete projects once begun. Thus information 
+relevant to such matters, such as medical
+information about one’s own condition or possible
+adverse effects of various treatments, may well be
+worth having at the cost of psychological pain or
+depression. 
+
+The value of self-determination 
+We have so far focused on the inability of the doctor
+to assume a particular value ordering for his patient
+in which health, the prolonging of life, or the avoidance 
+of depression is uppermost. The likelihood of
+error in this regard makes it probable that the
+doctor will not know the true interests of his patient
+as well as the patient himself. He is therefore less
+likely than the patient himself to make choices in
+accord with that overall interest, and paternalistic
+assumption of authority to do so is therefore unjustified. 
+There is in addition another decisive consideration 
+mentioned earlier, namely the independent
+value of self-determination or freedom of choice.
+Personal autonomy over important decisions in one’s
+life, the ability to attempt to realize one’s own value
+ordering, is indeed so important that normally no
+amount of other goods, pleasures or avoidance of
+personal evils can take precedence. This is why it is
+wrong to contract oneself into slavery, and another
+reason why pleasure machines do not seem attractive. 
+Regarding the latter, even if people were willing
+to forego other goods for a life of constant pleasure,
+the loss in variety of other values, and in the creativity 
+that can generate new sources of value, would be
+morally regrettable. The value of self-determination
+explains also why there is such a strong burden of
+proof upon those who advocate paternalistic measures, 
+why they must show that the person would
+otherwise act in a way inconsistent with his own
+value ordering, that is irrationally. A person’s desires 
+are not simply evidence of what is in his interest—they 
+have extra weight. 
+
+Especially when decisions are important to the
+course of our lives, we are unwilling to relinquish
+them to others, even in exchange for a higher probability 
+of happiness or less risk of suffering. Even if
+it could be proven, for example, that some scientific 
+method of matching spouses greatly increased
+chances of compatibility and happiness, we would
+insist upon retaining our rights over marriage decisions. 
+Given the present rate of success in marriages, 
+it is probable that we could in fact find some
+better method of matching partners in terms of
+increasing that success rate. Yet we are willing to
+forego increased chances of success in order to
+make our own choices, choices that tend to make us
+miserable in the long run. The same might be true of
+career choices, choices of schools, and others central
+to the course of our lives. Our unwillingness to
+delegate these crucial decisions to experts or computers,
+who might stand a better chance of making
+them correctly (in terms of later satisfactions), is not
+to be explained simply in terms of our (sometimes
+mistaken) assumptions that we know best how to
+satisfy our own interests, or that we personally will
+choose correctly, even though most other people
+do not. If our retaining such authority for ourselves
+is not simply irrational, and I do not believe it is,
+this can only be because of the great independent
+value of self-determination. We value the exercise of
+free choice itself in personally important decisions,
+no matter what the effects of those decisions upon
+other satisfactions. The independent value of self-
+determination in decisions of great personal importance 
+adds also to our reluctance to relinquish
+medical decisions with crucial effects on our lives
+to doctors, despite their medical expertise. 
+
+Autonomy or self-determination is independently
+valuable, as argued before, first of all because we
+value it in itself. But we may again add to this
+want-regarding or utilitarian reason a second ideal-
+regarding or perfectionist reason. What has value
+does so because it is valued by a rational and autonomous 
+person. But autonomy itself is necessary
+to the development of such valuing individual persons 
+or agents. It is therefore not to be sacrificed to
+other derivative values. To do so as a rule is to destroy 
+the ground for the latter. Rights in general not
+only express and protect the central interests of
+individuals (the raison d’être usually emphasized
+in their exposition); they also express the dignity and
+inviolability of individuality itself. For this reason
+the most fundamental right is the right to control the
+course of one’s life, to make decisions crucial to it,
+including decisions in life-or-death medical contexts.
+The other side of the independent value of self-
+determination from the point of view of the individual 
+is the recognition of him by others, including
+doctors, as an individual with his own possibly
+unique set of values and priorities. His dignity demands 
+a right to make personal decisions that express those values.

@@ -1,0 +1,8 @@
+{
+"List of Recommended Books":"https://pastebin.com/raw/HtFthhWB",
+"The Nine Satanic Sins":"https://pastebin.com/raw/Ag4jbamS",
+"The Nine Satanic Statements":"https://pastebin.com/raw/i89eTeCh",
+"The Satanic Temple's Guide to Effective Protest":"https://pastebin.com/raw/WZDBFFug",
+"The Satanic Temple's Invocation":"https://pastebin.com/raw/JA247pSM",
+"The Seven Tenets of The Satanic Temple":"https://pastebin.com/raw/Uhfjiv1i"
+}
