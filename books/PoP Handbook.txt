@@ -1,0 +1,121 @@
+The Protectorate Handbook: The Official Guidelines for the Path of the Protectorate
+
+Introduction
+
+Ave and welcome to the Path of the Protectorate. This Handbook will provide everything you need to know to be a protector. It is highly recommended that you keep this handbook open in another tab while on duty. Make sure to read these guidelines to do your work properly. To be an active protector, you will need an average of a minimum of five hours per week. Be sure to go to your Head of Protection, 1st Assistant, Left Hand of Protection, Right Hand of Protection, or any Ashbringers with any questions or concerns related to your duty.
+
+Division Vows
+
+Vow 1: I swear to guard the secrets of my brother division. For when one of us falls, we both fall.
+
+Vow 2: I swear to protect all official procedures that take place in my church. Without protection, we will surely fail.
+
+Vow 3: I swear to remain attentive, refined, and professional both on and off duty, as I represent the best of us.
+
+Vow 4: I swear to remain loyal to the will of the entire council, instead of the will of the highest rank, to destroy the cruel.
+
+Vow 5: I swear to act with decisive clarity instead of fogged self-doubt. Only then will I succeed as a protector.
+
+Hierarchy and Ranks
+
+Head of Protection: The leader of the Protectorate Division, guiding protectors to excel in their duties.
+
+1st Assistant: Second in command, acting as the head of protection in the leader's absence and hosting training for other members.
+
+Right Hand of Protection: Manages division members, ensures protocol adherence, leads members in the game, and can host training.
+
+Left Hand of Protection: Focuses on communication within the division, tracks training attendance, serves as captain in the game, and can also host training.
+
+AshBringer: The highest main rank, assisting the Right/Left Hands, and serving as role models for lower-ranking members.
+
+Centurion: Represents dedication and readiness to face tougher situations.
+
+Judicator: Mid-ranks with training experience, well-versed in vows, and resilient in tough situations.
+
+Legionnaire: Second rank, knowledgeable in handling stress and challenges.
+
+Recruit: The first rank, tested and challenged for their capabilities and resilience.
+
+Expectations
+
+Standard Security Rules
+
+1. Rule breakers such as spammers, preachers, and trolls must be muted.
+2. Religious discussion is allowed as long as it isn’t preaching or attempts at conversion.
+3. Bigotry, death threats, IP threats, real-life threats, and racism are banned permanently.
+4. Joking about others' personal lives is punishable by server bans.
+5. All forms of religion and beliefs are allowed except for extremism.
+6. Report admin abuse directly to your Left Hand, Right Hand, or 1st Assistant with proof.
+7. Handle preachers, spammers, and trolls with escalating measures: warn, mute for ten minutes, server ban, and permanent ban for severe or repeated offenses.
+8. Administrative actions should not be abused for non-administrative purposes.
+9. Only certain ranks are allowed on stage.
+
+Basic Protectorate Commands
+
+;god (user)  
+;give me all  
+;jail (user)  
+;invisible me  
+;kick (user)  
+;Tempmute (user) (10m)  
+;sban (user) (reason)  
+;re (user)  
+;refresh (user)  
+Press Q to fly  
+;to (user)  
+;bring (user)  
+
+Training for Protectors
+
+Training is held once per week, scheduled by the Head of Protection, 1st Assistant, and Left & Right Hand of Protection. HRs will announce the start of training. Special arrangements will be made for different time zones. Protectors must follow instructions and orders at all times. Questions about updates or issues should be asked at the end of training. Attendance is mandatory. If you cannot attend, inform the PoP HRs. Missing training for two weeks without good reason results in a strike.
+
+Patrol Stations and Protocols
+
+Sermon Protocol
+
+1. Two guards at the front, one on each side pillar.
+2. Extra guards use the invisible command and hide in seats.
+3. Disruptors will be re-spawned and muted until the end of the sermon.
+4. Ensure the crowd lines up for questions at the end of the sermon.
+
+Exploiter Protocol
+
+1. Gather evidence of exploits.
+2. Identify the exploiter with the “;track” command.
+3. Slow down the exploiter with “;freeze, ;mute”.
+4. Ban with “;sban” command and log in #ban-logs.
+
+High Activity Protocol (25+ people)
+
+1. Alert other protectors and have swords out from stage to back.
+2. Call more protectors if more rulebreakers appear.
+3. Remove those who crowd and swarm the barrier after being told to back off.
+
+Raid Protocol
+
+1. Watch for raiders entering the church.
+2. Write down the names of at least 3 raiders.
+3. Activate high activity if more raiders appear.
+4. If an exploiter shows up, a Left/Right Hand+ must “;slock” for 5-10 minutes.
+5. Ensure “;unslock” is done before leaving.
+
+Conclusion
+
+Addendum
+
+1. The game is not your life; take breaks when needed.
+2. If overwhelmed by a situation, ask for backup in the Protectorate discord or a counselor to join.
+3. Support and cooperate with fellow protectors.
+4. It’s okay to say, "I don't know, I'm a protector, not an educator."
+
+A Message From A Councilor
+
+“Congratulations and welcome. You all stand as the strength and highest virtues of this group and community. It is with great trust that The Council has given you administrative abilities. Do not misuse this ability, as any such action will result in swift and cruel destruction. Seek assistance when lost. We wish you strength and determination. Hail Satan! Hail Thyself! Hail the Community! 
+
+Every protector should know that they have chosen a very stressful job, but with determination, strength, drive, and motivation, you will succeed. It’s not always a fun job, but I have faith in all of you to support each other as a family. You are an important piece of this puzzle, representing the church's eyes, ears, and spine. At the end of the day, you are the guard whose name strives in excellence, authority, strength, and grace! Ave Satanas!”
+
+Signed,
+
+Former group owner Ayri  
+Head of Protection/Councilor Sage  
+Former Head of Protection Soul
